@@ -19,11 +19,7 @@
 ----------------
 
 ## Installation 
-Run `npm init`, then install the following Node.js packages:
-1.) `mysql2`
-2.) `sequelize`
-3.) `express`
-4.) `dotenv`
+Run `npm install` to install the required Node.js packages.
 Then input login information into the `.env.EXAMPLE` file, changing the filename to `.env`.
 
 
