@@ -53,7 +53,7 @@ Reach out to me via email.
 
 
 ## Test
-n/a
+Testing done via Jest. Run `npm run test`
 
 ---
 
